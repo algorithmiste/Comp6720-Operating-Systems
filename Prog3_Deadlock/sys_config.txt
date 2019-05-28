@@ -1,0 +1,14 @@
+Allocation
+Process 0: 0 1 0
+Process 1: 2 0 0
+Process 2: 3 0 2
+Process 3: 2 1 1
+Process 4: 0 0 2
+Max
+Process 0: 7 5 3
+Process 1: 3 2 2
+Process 2: 9 0 2
+Process 3: 2 2 2 
+Process 4: 4 3 3 
+Available
+3 3 2

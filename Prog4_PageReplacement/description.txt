@@ -1,0 +1,12 @@
+
+author: Casey Carr
+
+task1:
+when the frame only 1, the fault should be the same for each algo, becasue when it has fault, it has to change
+when the frame is small, the OPT algo will get the smaller fault then LRU, since OPT will know the one not used in the future
+when the frame is large, each algo will the same, since frame has enough space for page, fault will be reduced.
+
+task2:
+the timer based takes more time than stack,
+becasue the timer LRU algo needed to search the whole counter list and update the timer for page when the page is referred
+and the stack based only need to push the new one to the top when it referred a page not in the frame

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/casey/Desktop/Prog3_final/main.cpp
+iostream
+-
+string
+-
+stdexcept
+-
+iomanip
+-
+cstddef
+-
+fstream
+-
+cstdlib
+-
+vector
+-
+deque
+-
+iterator
+-
+utility
+-
+map
+-
+algorithm
+-
+sstream
+-
+
